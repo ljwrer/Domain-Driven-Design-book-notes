@@ -1,0 +1,16 @@
+{
+  "author": "",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ddd-book-notes",
+  "scripts": {
+    "test": "cp DDD.md README.md",
+    "prepare": "husky install"
+  },
+  "version": "1.0.0",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
